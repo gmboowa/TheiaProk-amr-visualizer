@@ -55,6 +55,6 @@ The script will drop rows missing these fields and generate a bubble map of AMR 
 └── README.md
 ```
 
-## 📜 License
+## License
 
 MIT License
